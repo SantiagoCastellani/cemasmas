@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1693279481 source:c:\users\santi\desktop\utn-curs\2-cuatrimes\programacion 2\zzzz\tp_individual\funciones.cpp
+	<iostream>
+	<string.h>
+	"funciones.h"
+	"articulo.h"
+
+1693277561 c:\users\santi\desktop\utn-curs\2-cuatrimes\programacion 2\zzzz\tp_individual\funciones.h
+	"articulo.h"
+
+1693267712 c:\users\santi\desktop\utn-curs\2-cuatrimes\programacion 2\zzzz\tp_individual\articulo.h
+
+1693279299 source:c:\users\santi\desktop\utn-curs\2-cuatrimes\programacion 2\zzzz\tp_individual\main.cpp
+	<iostream>
+	<string.h>
+	"funciones.h"
+	"articulo.h"
+
